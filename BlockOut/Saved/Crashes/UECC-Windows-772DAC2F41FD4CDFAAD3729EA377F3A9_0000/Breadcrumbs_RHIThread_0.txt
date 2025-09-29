@@ -1,0 +1,6 @@
+Breadcrumbs 'RHIThread'
+ - VirtualTextureUpdate
+ - Scene
+ - RenderGraphExecute - /ViewFamilies
+ - SceneRender - ViewFamilies
+ - Frame 124262
